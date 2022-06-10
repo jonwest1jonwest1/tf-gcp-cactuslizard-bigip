@@ -1,0 +1,8 @@
+instance_count      = "1"
+prefix              = "cactuslizard"
+project_id          = "cactuslizard-348315"
+region              = "us-west1"
+zone                = "us-west1-b"
+image               = "projects/f5-7626-networks-public/global/images/f5-bigip-16-1-2-1-0-0-10-byol-all-modules-1boot-loc-1222202155"
+service_account     = "svc-jw@cactuslizard-348315.iam.gserviceaccount.com"
+f5_ssh_publickey    = "~/.ssh/id_ed25519.pub"
