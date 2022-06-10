@@ -81,7 +81,7 @@ extension_services:
   service_operations:
     - extensionType: do
       type: url
-      value: https://raw.githubusercontent.com/F5Networks/terraform-gcp-bigip-module/main/config/onboard_do.json
+      value: https://raw.githubusercontent.com/jonwest1jonwest1/tf-gcp-cactuslizard-bigip/main/config/onboard_do.json
 EOF
 fi
 
@@ -90,7 +90,7 @@ extension_services:
   service_operations:
     - extensionType: do
       type: url
-      value: https://raw.githubusercontent.com/F5Networks/terraform-gcp-bigip-module/main/config/onboard_do.json
+      value: https://raw.githubusercontent.com/jonwest1jonwest1/tf-gcp-cactuslizard-bigip/main/config/onboard_do.json
 EOF
 
 # Create nic_swap script when multi nic on first boot
